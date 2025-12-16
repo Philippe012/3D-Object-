@@ -115,25 +115,6 @@ numpy>=1.19.0
 
 ---
 
-## 🏗️ Project Structure
-
-```
-space-hand-navigator/
-│
-├── space_navigator.py      # Main application file
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-├── LICENSE                # MIT License
-│
-├── assets/                # (Optional) Screenshots/demos
-│   └── demo.gif
-│
-└── docs/                  # (Optional) Additional documentation
-    └── technical_details.md
-```
-
----
-
 ## 🛠️ Technical Details
 
 ### Architecture
@@ -256,9 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/space-hand-navigator](https://github.com/yourusername/space-hand-navigator)
+**Your Name** - mugishaphilippe3@gmail.com
 
 ---
 
